@@ -9,5 +9,4 @@ Isto é um pouquinho de mim
 - 💬 Ask me about  administração
 - 📫 Você pode me encontrar nas redes sociais facebook, Instagram.
 - 😄 Pronouns senhor.
-- ⚡ Fun fact astronomia, matemática, informatica, html.
--
+- ⚡ Fun fact astronomia, matemática, informatica, html
